@@ -1,7 +1,7 @@
 #paragrafo1{
     text-align:center;
     font-size:medium;
-    color:aquamarine;
+    color:rgb(85, 114, 67);
     border:5px solid grey;
     font-family:"big shoulders";
 }
@@ -18,8 +18,8 @@
 }
 .texto{
     text-align:center;
-    font-size:medium;
-    color:aquamarine
+    font-size:2rem;
+    color:rgb(85, 114, 67)
 }
 .borda{
     border:5px solid grey;
