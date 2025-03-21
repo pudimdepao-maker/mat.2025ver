@@ -33,3 +33,6 @@
 .cor{
     color:grey;
 }
+img, body{
+    display:inline-block
+}
