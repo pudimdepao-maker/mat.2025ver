@@ -3,6 +3,7 @@
     font-size:medium;
     color:aquamarine;
     border:5px solid grey;
+    font-family:"big shoulders";
 }
 .titulo{
     font-size:3rem;
@@ -24,5 +25,5 @@
     border:5px solid grey;
 }
 .fonte{
-    font-family:"big shoulders";
+    font-family:"big shoulders"
 }
