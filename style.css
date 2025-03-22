@@ -34,7 +34,7 @@
     color:grey;
 }
 .flex{
-    display:inline-flex;
+    display:flexbox;
 }
 .container{
     margin:0 auto;
