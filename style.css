@@ -33,3 +33,11 @@
 .cor{
     color:grey;
 }
+.flex{
+    display:flex;
+}
+.container{
+    max-width:fit-content;
+    margin:0 auto;
+    border:1px solid #ccc;
+}
