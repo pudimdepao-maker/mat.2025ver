@@ -39,10 +39,15 @@
 .container{
     margin:0 auto;
     border:1px solid #ccc;
+    flex-wrap:wrap;
+    justify-content:center;
 }
 .esquerda{
 display:left;
 }
 .direita{
 display:right;
+}
+.fixo{
+    position:fixed;
 }
