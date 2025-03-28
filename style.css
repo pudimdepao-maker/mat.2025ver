@@ -17,7 +17,7 @@
     text-decoration:underline;
 }
 .texto{
-    text-align:justify;
+    text-align:center;
     font-size:2rem;
     color:rgb(85, 114, 67)
 }
@@ -37,7 +37,7 @@
     display:flexbox;
 }
 .container{
-    margin:0 auto;
+    margin:auto;
     border:1px solid #ccc;
     flex-wrap:wrap;
     justify-content:center;
