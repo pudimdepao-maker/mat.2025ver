@@ -54,3 +54,6 @@ display:right;
 .fundo{
     background-color: beige;
 }
+.margem{
+    margin:0 auto;
+}
